@@ -6,7 +6,7 @@ LINKS
 
 https://github.com/asomani91/02.26.21---TeamProfileGenerator
 
-![GIF](https://github.com/asomani91/02.26.21---TeamProfileGenerator/blob/main/Screen Recording 2021-04-22 at 10.14.25 PM.gif)
+![GIF](https://github.com/asomani91/02.26.21---TeamProfileGenerator/main/Screen Recording 2021-04-22 at 10.14.25 PM.gif)
 
 -----
 
