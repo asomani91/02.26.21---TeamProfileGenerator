@@ -6,7 +6,7 @@ LINKS
 
 https://github.com/asomani91/02.26.21---TeamProfileGenerator
 
-![GIF] (https://github.com/asomani91/02.26.21---TeamProfileGenerator/blob/main/TeamProfileGenerator.gif)
+![GIF](https://github.com/asomani91/02.26.21---TeamProfileGenerator/blob/main/TeamProfileGenerator.gif)
 
 -----
 
